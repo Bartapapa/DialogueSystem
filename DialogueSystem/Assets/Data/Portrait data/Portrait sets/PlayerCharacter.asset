@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf758a2aa15e7b4590d7e0f5ac299d6, type: 3}
+  m_Name: PlayerCharacter
+  m_EditorClassIdentifier: 
+  CharacterName: Player
+  Neutral: {fileID: 21300000, guid: 9bf0d7197787b3349b0e697c7fe0f3c7, type: 3}
+  Happy: {fileID: 21300000, guid: 200dcee38073be9478b176b2e42b98b3, type: 3}
+  Fear: {fileID: 21300000, guid: f173938ce2f28614489b4458b062372f, type: 3}
+  Angry: {fileID: 21300000, guid: 4289e2b5ea2cebd45a164a7305b3f458, type: 3}
